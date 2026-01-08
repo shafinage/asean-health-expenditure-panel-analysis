@@ -8,8 +8,7 @@ Panel ARDL was chosen because:
 
 Unlike static panel models, panel ARDL explicitly models adjustment dynamics following economic or policy changes.
 
-
-## Estimation Strategy: Pooled Mean Group (PMG)
+## Estimation Strategy: PMG
 The study employs the **Pooled Mean Group (PMG) estimator**.
 
 PMG is appropriate when:
@@ -43,7 +42,7 @@ To complement the ARDL results, the study conducts **panel causality testing**.
 
 This step helps distinguish:
 - whether health expenditures influence health outcomes,
-- whether health improvements may feedback into economic growth,
+- whether health improvements influence economic growth,
 - whether bidirectional relationships exist.
 
 Causality analysis strengthens the policy interpretation by clarifying the **direction of influence**, not just correlation.
