@@ -1,6 +1,9 @@
 ## Choice of Panel ARDL Framework
 The core empirical framework is the **Panel Autoregressive Distributed Lag (ARDL)** model.
 
+![Cross-sectional dependence test](methodology/cross-sectional-dependence.png)
+![Unit Root test](methodology/unit-root.png)
+
 Panel ARDL was chosen because:
 - the variables exhibit **mixed orders of integration** (I(0) and I(1)),
 - the time dimension is sufficiently long to analyze dynamic relationships,
@@ -55,11 +58,3 @@ Results are interpreted with emphasis on:
 - heterogeneity across health outcome indicators.
 
 This approach ensures that findings are meaningful for real-world health financing decisions rather than purely technical conclusions.
-
-
-## Summary
-Overall, the methodological framework combines:
-- dynamic panel modeling,
-- long-run equilibrium analysis,
-- short-run adjustment dynamics,
-- causality assessment.
