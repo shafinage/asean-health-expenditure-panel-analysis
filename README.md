@@ -37,7 +37,7 @@ How do health expenditures and economic growth affect health outcomes in ASEAN c
   - Economic growth variables  
   - Control macroeconomic factors  
 
-![Data cleaning and formatting](asean-health-expenditure-panel-analysis/data-cleaning-formatting.png)
+![Data cleaning and formatting](data-cleaning-formatting.png)
 
 All raw datasets and institutional identifiers are excluded from this public repository.
 
@@ -57,7 +57,8 @@ A summarized version of study method can be found in [asean-health-expenditure-p
 - Economic growth contributes indirectly to health improvements but does not substitute targeted health spending  
 - Evidence suggests asymmetric effects depending on expenditure type and outcome measured  
 
-![Panel ARDL Results](asean-health-expenditure-panel-analysis/panel-ARDL.png)
+![Panel ARDL Results](results/panel-ARDL.png)
+![Panel ARDL Results](results/causality.png)
 
 Detailed numerical outputs are intentionally redacted.
 
