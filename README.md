@@ -47,7 +47,7 @@ All raw datasets and institutional identifiers are excluded from this public rep
 This study employs **panel Autoregressive Distributed Lag (ARDL)** modeling to capture both short-run dynamics and long-run relationships.
 These methods are suitable for heterogeneous panels and mixed integration orders, making them appropriate for cross-country ASEAN analysis.
 
-A summarized version of study method can be found in [asean-health-expenditure-panel-analysis](methodology-summary.md)
+A summarized version of study method can be found in [Methodology Summary](methodology-summary.md)
 
 ---
 
