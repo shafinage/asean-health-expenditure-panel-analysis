@@ -43,15 +43,9 @@ All raw datasets and institutional identifiers are excluded from this public rep
 
 ## Methodological Approach
 This study employs **panel Autoregressive Distributed Lag (ARDL)** modeling to capture both short-run dynamics and long-run relationships.
-
-Key methods include:
-- Cross-sectional dependence testing  
-- Panel unit root testing  
-- Panel cointegration analysis  
-- **PMG (Pooled Mean Group) estimation**  
-- Panel causality testing  
-
 These methods are suitable for heterogeneous panels and mixed integration orders, making them appropriate for cross-country ASEAN analysis.
+
+A summarized version of study method can be found in [asean-health-expenditure-panel-analysis](summary-methodology.md)
 
 ---
 
