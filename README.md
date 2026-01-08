@@ -28,7 +28,7 @@ How do health expenditures and economic growth affect health outcomes in ASEAN c
 ## Data Overview
 - **Countries:** ASEAN member states  
 - **Data type:** Balanced panel data  
-- **Sources:** World Bank World Development Indicators (WDI)  
+- **Sources:** World Bank, World Development Indicators (WDI)  
 - **Health outcomes:**  
   - Life expectancy  
   - Infant mortality  
@@ -36,6 +36,8 @@ How do health expenditures and economic growth affect health outcomes in ASEAN c
   - Health expenditure indicators  
   - Economic growth variables  
   - Control macroeconomic factors  
+
+![Data cleaning and formatting](asean-health-expenditure-panel-analysis/data-cleaning-formatting.png)
 
 All raw datasets and institutional identifiers are excluded from this public repository.
 
@@ -45,7 +47,7 @@ All raw datasets and institutional identifiers are excluded from this public rep
 This study employs **panel Autoregressive Distributed Lag (ARDL)** modeling to capture both short-run dynamics and long-run relationships.
 These methods are suitable for heterogeneous panels and mixed integration orders, making them appropriate for cross-country ASEAN analysis.
 
-A summarized version of study method can be found in [asean-health-expenditure-panel-analysis](summary-methodology.md)
+A summarized version of study method can be found in [asean-health-expenditure-panel-analysis](methodology-summary.md)
 
 ---
 
@@ -55,7 +57,9 @@ A summarized version of study method can be found in [asean-health-expenditure-p
 - Economic growth contributes indirectly to health improvements but does not substitute targeted health spending  
 - Evidence suggests asymmetric effects depending on expenditure type and outcome measured  
 
-Detailed numerical outputs are intentionally redacted; summarized results are presented visually.
+![Panel ARDL Results](asean-health-expenditure-panel-analysis/panel-ARDL.png)
+
+Detailed numerical outputs are intentionally redacted.
 
 ---
 
@@ -67,4 +71,7 @@ Detailed numerical outputs are intentionally redacted; summarized results are pr
 
 ---
 
-## Repository Contents
+## About This Work
+This project was completed as part of a graduate-level empirical research thesis. The analysis reflects independent academic work and does not represent institutional or governmental positions.
+Files presented are heavily redacted and summarized for portfolio demonstration only.
+
