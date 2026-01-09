@@ -57,7 +57,13 @@ A summarized version of study method can be found in [Methodology Summary](metho
 - Economic growth contributes indirectly to health improvements but does not substitute targeted health spending  
 - Evidence suggests asymmetric effects depending on expenditure type and outcome measured  
 
+Panel ARDL Result
+
 ![Panel ARDL Results](results/panel-ARDL.png)
+
+
+Causality Test Result
+
 ![Panel ARDL Results](results/causality.png)
 
 Detailed numerical outputs are intentionally redacted.
